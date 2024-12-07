@@ -7,3 +7,5 @@
 - Game data is saved to a CSV file every time you advance a stage.
 - Instructions on how to play are given in the introduction.
 	It is just enter a key to do an action.
+
+- Check the LabReport.txt for the lab report
